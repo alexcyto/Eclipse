@@ -1,0 +1,26 @@
+package PadreHijo;
+
+import java.io.File;
+
+import java.io.IOException;
+import java.util.Arrays;
+
+	public class SPU01E01Alex_Marí {
+		
+	     public static void main(String[] args) {
+	          try {
+	             // create a new process
+	             System.out.println("Creating Process...");
+	             Process p = Runtime.getRuntime().exec("jmari\\Escriptori\\Gambas3");
+
+	             // cause this process to stop until process p is terminated
+	             p.waitFor();
+
+	             // when you manually close notepad.exe program will continue here
+	             System.out.println("Waiting over.");
+	          } catch (Exception ex) {
+	             ex.printStackTrace();
+	          }
+	       }
+
+}

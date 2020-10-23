@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<juegos>
+    	
+    <juego creado_en="1983">
+        		
+        <titulo>Elpepe</titulo>
+        		
+        <creador>Shinichi Nakamoto</creador>
+        		
+        <sinopsis>Estratégia laberíntica de acción</sinopsis>
+        		
+        <plataforma>Pc</plataforma>
+        	
+    </juego>
+    	
+
+	
+    <juego creado_en="2012">
+        		
+        <titulo>Las Guerras Felices</titulo>
+        		
+        <creador>ToyLogic</creador>
+        		
+        <sinopsis>Rol tactico de acción multijugador</sinopsis>
+        		
+        <plataforma>Xbox</plataforma>
+        	
+    </juego>
+    	
+
+    <juego creado_en="a">
+        <titulo>a</titulo>
+        <creador>a</creador>
+        <sinopsis>a</sinopsis>
+        <plataforma>a</plataforma>
+    </juego>
+    <juego creado_en="a">
+        <titulo>a</titulo>
+        <creador>a</creador>
+        <sinopsis>a</sinopsis>
+        <plataforma>a</plataforma>
+    </juego>
+    <juego creado_en="a">
+        <titulo>a</titulo>
+        <creador>a</creador>
+        <sinopsis>a</sinopsis>
+        <plataforma>a</plataforma>
+    </juego>
+    <juego creado_en="a">
+        <titulo>a</titulo>
+        <creador>a</creador>
+        <sinopsis>a</sinopsis>
+        <plataforma>a</plataforma>
+    </juego>
+    <juego creado_en="a">
+        <titulo>a</titulo>
+        <creador>a</creador>
+        <sinopsis>a</sinopsis>
+        <plataforma>a</plataforma>
+    </juego>
+</juegos>

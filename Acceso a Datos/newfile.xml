@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libros>
+      
+    <libro publicado_en="1874">
+            
+        <titulo>El Quijote</titulo>
+            
+        <autor>Cerbantes</autor>
+            
+        <texto>Hola</texto>
+            
+        <editorial>Planeta</editorial>
+          
+    </libro>
+      
+  
+    <libro publicado_en="2008">
+            
+        <titulo>Diaro de Greg</titulo>
+            
+        <autor>Jeff Kiney</autor>
+            
+        <texto>Adiós</texto>
+            
+        <editorial>Agapea</editorial>
+          
+    </libro>
+    
+</libros>

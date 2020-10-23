@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+
+  <libro publicado_en = "1874">
+    <titulo>El Quijote</titulo>
+    <autor>Cerbantes</autor>
+    <texto>Hola</texto>
+    <editorial>Planeta</editorial>
+  </libro>
+  
+  <libro publicado_en = "2008">
+    <titulo>Diaro de Greg</titulo>
+    <autor>Jeff Kiney</autor>
+    <texto>Adiós</texto>
+    <editorial>Agapea</editorial>
+  </libro>
+  
+  <libro publicado_en = "2019">
+    <titulo>Ride on king</titulo>
+    <autor>Yasushi Baba</autor>
+    <texto>Hola</texto>
+    <editorial>IVREA</editorial>
+  </libro>
+
+  <libro publicado_en = "1999">
+    <titulo>Bobobo</titulo>
+    <autor>Yoshio Samai</autor>
+    <texto>Hola</texto>
+    <editorial>IVREA</editorial>
+  </libro>
+
+  <libro publicado_en = "2011">
+    <titulo>Akame ga kill</titulo>
+    <autor>Takahiro</autor>
+    <texto>Hola</texto>
+    <editorial>IVREA</editorial>
+  </libro>
+
+</libros>

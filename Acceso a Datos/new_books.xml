@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Reservas>
+        
+    <Booking location_number="01">
+                
+        <Client>xd</Client>
+                
+        <Price>100</Price>
+                
+        <Hotel>Blabla Hotel</Hotel>
+                
+        <Agency>TravelgateX</Agency>
+            
+    </Booking>
+        
+    <Booking location_number="02">
+                
+        <Client>Sandra Escandell Montes</Client>
+                
+        <Price>300</Price>
+                
+        <Hotel>Gatillos Hotel</Hotel>
+                
+        <Agency>Thomas Cook</Agency>
+            
+    </Booking>
+        
+    <Booking location_number="03">
+                
+        <Client>Sergi</Client>
+                
+        <Price>100000</Price>
+                
+        <Hotel>Putitos Hotel</Hotel>
+                
+        <Agency>Marica Travels</Agency>
+            
+    </Booking>
+    
+</Reservas>
