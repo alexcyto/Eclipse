@@ -1,0 +1,10 @@
+package Otros;
+
+public class compararChar {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

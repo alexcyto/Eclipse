@@ -1,0 +1,17 @@
+package Metodos;
+
+public class ConversorDeGrados {
+	
+	public static void Centigrados_a_Farenheit(int grados_centigrados) {
+		int farenheit;
+		int formula = 32 + ( 9 * grados_centigrados / 5);
+		System.out.println(grados_centigrados + "centigrados" +"a farenheit son" + formula + "grados farenheit" );
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

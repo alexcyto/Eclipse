@@ -1,0 +1,10 @@
+package Otros;
+
+public class ConversorDeGrados {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

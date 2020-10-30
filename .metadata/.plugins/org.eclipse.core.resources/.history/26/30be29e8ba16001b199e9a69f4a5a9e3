@@ -1,0 +1,13 @@
+package Metodos;
+
+public class SepararCaracteres {
+
+	public static void main(String[] args) {
+		
+		int num = 4;
+		
+		String numCadena = Integer.toString(num);
+
+	}
+
+}

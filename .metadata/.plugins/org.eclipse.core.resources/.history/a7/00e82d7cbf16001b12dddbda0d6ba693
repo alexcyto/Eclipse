@@ -1,0 +1,25 @@
+package Otros;
+
+import java.io.IOException;
+
+public class compararChar {
+
+	public static void main(String[] args) throws IOException {
+		
+		System.out.println("Esto compara 2 caracteres para ver si son iguales");
+		char caracter1;
+        caracter1 = (char) System.in.read(); 
+        
+        char caracter2;
+        caracter2 = (char) System.in.read();
+        
+        if(caracter1 == caracter2) {
+        	System.out.println("Son iguales");
+        }else {
+        	System.out.println("No son iguales");
+        }
+
+
+	}
+
+}

@@ -3,7 +3,7 @@ package Metodos;
 import java.util.*;
 
 /*
- 7.- Crea un método que al ingresar por teclado un número cualquiera, 
+ 7.- Crea un me�todo que al ingresar por teclado un número cualquiera, 
  muestre la cantidad de  números pares a partir del 2, por ejemplo: 
  si se  introduce 7, entonces se imprimirán los pares de el doble de 7:, 2, 4, 6, 8, 10, 12,14 
  o si se introduce 10 = 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.

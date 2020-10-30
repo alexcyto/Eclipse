@@ -1,0 +1,25 @@
+package Otros;
+
+import java.util.*;
+
+public class Hora {
+	
+	static Scanner sc = new Scanner(System.in);
+
+	public static void main(String[] args) {
+
+		System.out.println("Introduce hora");
+		int hora = sc.nextInt();
+		System.out.println("Introduce minutos");
+		int minutos = sc.nextInt();
+		System.out.println("Introduce seegundos");
+		int segundos = sc.nextInt();
+		
+		if(hora<=24 && hora>=1 && minutos<=60 && minutos>=0 &&) {
+			System.out.println("Hora correcta");
+		}else {
+			
+		}
+	}
+
+}

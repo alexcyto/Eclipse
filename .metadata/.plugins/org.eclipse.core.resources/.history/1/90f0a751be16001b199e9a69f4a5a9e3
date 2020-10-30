@@ -1,0 +1,22 @@
+package Metodos;
+
+import java.io.IOException;
+import java.util.*;
+
+public class LetraMayuscula {
+	
+	static Scanner sc = new Scanner(System.in);
+
+	public static void main(String[] args) throws IOException {
+		
+		char caracter;
+		System.out.print("Introduzca un carácter: ");
+		
+        caracter = (char) System.in.read(); 
+        
+
+		
+
+	}
+
+}

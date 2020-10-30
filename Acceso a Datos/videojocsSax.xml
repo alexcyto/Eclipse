@@ -1,0 +1,24 @@
+﻿<juegos>
+
+	<juego creado_en = "1983">
+		<titulo> </titulo>
+		<creador>Shinichi Nakamoto</creador>
+		<sinopsis>Estratégia laberíntica de acción</sinopsis>
+		<plataforma>Pc</plataforma>
+	</juego>
+
+	<juego creado_en = "2016">
+		<titulo>Dark Souls III</titulo>
+		<creador>From Software</creador>
+		<sinopsis>Rol de accion</sinopsis>
+		<plataforma>Pc</plataforma>
+	</juego>
+
+	<juego creado_en = "2012">
+		<titulo>Happy Wars</titulo>
+		<creador>ToyLogic</creador>
+		<sinopsis>Rol tactico de acción multijugador</sinopsis>
+		<plataforma>Xbox</plataforma>
+	</juego>
+	
+</juegos>

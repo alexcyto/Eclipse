@@ -1,0 +1,18 @@
+package Metodos;
+ 
+
+//Longitud de la circunferencia = 2*PI*Radio,
+//Area de la circunferencia = PI*Radio^2 
+
+public class RadioAreaCircunferencia {
+	
+	public static void areaC(int radio) {
+		double formula = Math.pow((Math.PI * radio), 2);
+		
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

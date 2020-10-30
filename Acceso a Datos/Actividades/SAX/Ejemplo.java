@@ -11,7 +11,7 @@ public class Ejemplo{
 	public static void main(String[] args) {
 		
 		try {
-			File inputFile = new File("books.xml");
+			File inputFile = new File("videojocsSax.xml");
 			SAXParserFactory factory = SAXParserFactory.newInstance();
 			SAXParser saxParser = factory.newSAXParser();
 			XMLSaxHandler userhandler = new XMLSaxHandler();
